@@ -1,5 +1,5 @@
 # MAGD150Repository
-##MAGD 150 Projects
+## MAGD 150 Projects
 
 ### f21magd150lab02_Vanevenhoven
 
